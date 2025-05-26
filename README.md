@@ -32,6 +32,14 @@
 
 Contet-type should be in application/json
 
+4)  Click on "Build Now"
+  ![Build.image](./image/Build.PNG)
+
+5) After build click on the green icon in the build Box to check the outcome.
+   ![icon](./image/icon.PNG)
+
+  ![output](./image/Capture.PNG) 
+
 
 
     
